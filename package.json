@@ -87,7 +87,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ekwonye-richard/react-flags-select.git"
+    "url": "git+https://github.com/sugoh/react-flags-select-upgraded"
   },
   "author": "Richard Ekwonye",
   "license": "MIT",
